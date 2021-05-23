@@ -3,4 +3,4 @@
 
 # 
 
-Phylog is a embedded system developed for climate monitoring station.
+Phylog is an embedded system developed for climate monitoring station.
