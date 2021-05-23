@@ -1,4 +1,6 @@
 
 <img src="https://github.com/ermannomillo/phylog-I/blob/main/images/phylog_t_logo.gif" width="400">
+
 # 
-ATSAMA5D27-SOM1 base embedded system for climate monitoring station
+
+Phylog is a embedded system developed for climate monitoring station.
