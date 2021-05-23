@@ -5,6 +5,9 @@
 
 Phylog is an embedded system developed for climate monitoring station.
 
+![alt text](https://github.com/ermannomillo/MicroA_Xilinx/blob/main/images/microA_trasparent.png?raw=true)
+
+
 Peripherals:
 * RJ-45 
 * USB
