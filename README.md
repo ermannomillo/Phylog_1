@@ -8,7 +8,7 @@ Phylog is an embedded system developed for climate monitoring station. It works 
 ![alt text](https://github.com/ermannomillo/phylog-I/blob/main/images/phylog_front_transparent.png?raw=true)
 
 
-Peripherals:
+**Peripherals**
 * RJ-45 
 * USB
 * 83 GPIO
