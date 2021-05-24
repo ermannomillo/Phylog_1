@@ -13,6 +13,7 @@ Phylog is an embedded system developed for climate monitoring station. It works 
 * SD card reader
 * 8 channel ADC/DAC (12bit resolution)
 * RS-232 (UART/SPI/I2C)
+* JTAG
 
 ![alt text](https://github.com/ermannomillo/phylog-I/blob/main/images/phylog_front_transparent.png?raw=true)
 
