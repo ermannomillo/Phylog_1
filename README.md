@@ -5,9 +5,6 @@
 
 Phylog is an embedded system developed for climate monitoring station. It works on Phylog OS: a modified embedded Linux distro.
 
-![alt text](https://github.com/ermannomillo/phylog-I/blob/main/images/phylog_front_transparent.png?raw=true)
-
-
 **Peripherals**
 * RJ-45 
 * USB
@@ -16,5 +13,7 @@ Phylog is an embedded system developed for climate monitoring station. It works 
 * SD card reader
 * 8 channel ADC/DAC (12bit resolution)
 * RS-232 (UART/SPI/I2C)
+
+![alt text](https://github.com/ermannomillo/phylog-I/blob/main/images/phylog_front_transparent.png?raw=true)
 
 The projects are made with Altium Designer 19.
