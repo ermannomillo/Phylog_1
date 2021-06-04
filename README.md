@@ -3,7 +3,7 @@
 
 # 
 
-Phylog is an embedded system developed for climate monitoring station. It works on Phylog OS: a modified embedded Linux distro.
+Phylog is an embedded system developed for climate monitoring stations. It works on _PhylogOS_: a modified embedded Linux distro.
 
 **Peripherals**
 * RJ-45 
