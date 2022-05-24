@@ -17,4 +17,4 @@ Phylog is an embedded system developed for climate monitoring stations. It works
 
 ![alt text](https://github.com/ermannomillo/phylog-I/blob/main/images/phylog_front_transparent.png?raw=true)
 
-The projects are made with Altium Designer 19.
+The projects was made with Altium Designer 19.
